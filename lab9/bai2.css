@@ -1,0 +1,28 @@
+.fr{
+    font-size: 16pt;
+}
+.o1{
+    width: 425px;
+    height: 20px;
+}
+.o2{
+    width: 400px;
+    height: 90px;
+}
+.QT{
+    width: 430px;
+    height: 30px;
+}
+.n1{
+    width: 100px;
+    height: 30px;
+}
+.k1{
+    margin-bottom: 10px;
+}
+.k2{
+    border-bottom: 2px solid gray ;
+    width: 435px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    width: 70%;
+    font-size: 20px;
+    text-align: center;
+    border-color: cornflowerblue;
+    margin: 0 auto;
+
+}
+thead{
+    background-color: cornflowerblue;
+}
+tr {
+    height: 40px;
+}
+tbody > tr:nth-child(2n+1){
+    background-color: lightgrey;
+}
+tbody > tr:nth-child(2n) {
+    background-color:aliceblue
+}

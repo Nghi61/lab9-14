@@ -1,0 +1,40 @@
+.center{
+        width: 100%;
+        min-height: 100px;
+}
+.center img{
+    width: 100%;
+    min-height: 100px;
+}
+.boxleft{
+    float: left;
+    width: 100%;
+    min-height: 600px;
+}
+.boxleft img{
+        float: left;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-right: 20px;
+}
+hr{
+        clear: both;
+}
+a{
+        font-size: 18pt;
+        color: red;
+        text-decoration: none;
+}
+a:hover{
+        color: blue;
+}
+span{
+        font-size: 18pt;
+        color: #666;
+}
+p{
+        text-align:justify;
+        font-size: 14pt;
+        padding: 0 10px;
+        margin: 30px 10px;
+}

@@ -1,0 +1,37 @@
+.k1{
+    margin-bottom: 10px;
+    font-size: 16pt;
+}
+.k2{
+    margin-bottom: 10px;
+    border-bottom: 1px solid gray ;
+    width: 400px;
+    padding-bottom: 10px;
+}
+.gc{
+    background-color: yellow;
+}
+.o1{
+    width: 390px;
+    height: 30px;
+}
+.b1{
+    border-radius: 15px;
+    box-shadow: inset 0px 0px 15px blue ;
+    width: 120px;
+    height: 30px;
+    font-weight: bold;
+    color: orangered;
+    background-color: white;
+}
+.b1:hover{
+    color: blue;
+    box-shadow: inset 0px 0px 15px blue ;
+}
+.b2{
+    width: 120px;
+    height: 30px;
+    border-radius: 15px;
+    color: darkgray;
+    box-shadow: inset 0px 0px 15px gray ;
+}
